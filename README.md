@@ -34,3 +34,9 @@ ca- Number of major vessels (0–3) colored by flourosopy : displays the value a
 thal : Displays the thalassemia : 1,3 = normal 6 = fixed defect 7 = reversible defect: no proper blood movement when excercising
 
 target : Displays whether the individual is suffering from heart disease or not : 1 = yes 0 = nose or not : 1 = yes 0 = no
+
+# Installation
+<h3> Follow the steps to clone the Repo</h3>
+Open Git Bash.<br>
+Change to the directory you want.<br>
+Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Titanic-Classification.git"
