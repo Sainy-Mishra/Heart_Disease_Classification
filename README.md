@@ -39,4 +39,8 @@ target : Displays whether the individual is suffering from heart disease or not 
 <h3> Follow the steps to clone the Repo</h3>
 Open Git Bash.<br>
 Change to the directory you want.<br>
-Clone the repository by entering this command: git clone "https://github.com/Sainy-Mishra/Heart-Disease-Classification.git"
+Clone the repository by entering this command: 
+
+```bing
+git clone "https://github.com/Sainy-Mishra/Heart-Disease-Classification.git"
+```
