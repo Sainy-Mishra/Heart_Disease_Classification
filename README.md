@@ -42,5 +42,5 @@ Change to the directory you want.<br>
 Clone the repository by entering this command: 
 
 ```bing
-git clone "https://github.com/Sainy-Mishra/Heart-Disease-Classification.git"
+git clone "https://github.com/Sainy-Mishra/Heart_Disease_Classification.git"
 ```
